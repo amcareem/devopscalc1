@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: calculator
+Version: 0.0.1
+Summary: A small coding activity for Solent University DevOps Group Project
+Author: Ahamed Careem, Amsith Athambawa, Ahmath Musharraf, Nushath Nisardeen
+Project-URL: github, https://github.com/Nushath/SOLENTbcasDevOpsBCC629
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# SOLENTbcasDevOpsBCC629
+This is the Solent University DevOps Group Project Repository. Participants are Ahamed Careem, Amsith Athambawa, Ahmath Musharraf and Nushath Nisardeen from BCAS campus
